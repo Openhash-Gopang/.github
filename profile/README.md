@@ -93,9 +93,9 @@
 
 - **오류 발견:** Issue를 통해 신고
 - **개선 제안:** Pull Request로 제출
-- **법률·기술 검토 협력:** legal@gopang.net
-- **개발 참여:** dev@gopang.net
-- **일반 문의:** hello@gopang.net
+- **법률·기술 검토 협력:** legal@hondi.net
+- **개발 참여:** dev@hondi.net
+- **일반 문의:** hello@hondi.net
 
 ---
 
